@@ -1,0 +1,6 @@
+ex09
+
+0/1
+
+- le modèle de dartling n'a pas été généré correctement
+- le modèle n'a pas été utilisé dans l'application

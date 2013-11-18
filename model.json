@@ -4,7 +4,7 @@
     "boxes":[
         {
             "name":"Contact",
-            "entry":false,
+            "entry":true,
             "x":266,
             "y":307,
             "width":120,
